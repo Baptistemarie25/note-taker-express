@@ -8,5 +8,5 @@ This application Note Taker Express can be used to write and save notes. This ap
 ![screenhot](/note-taker-screenshot.png)
 
 ## Link to Application
-[link](https://note-taker-wildana.herokuapp.com/notes)
+[Note Taker](https://note-taker-wildana.herokuapp.com/notes)
 
